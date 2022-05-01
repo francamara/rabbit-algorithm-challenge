@@ -13,7 +13,7 @@ Feel completely free to fork this and come up with your own solution. In case yo
 
 ## Problem
 
-There is set of holes in a straight line going from _0_ and _n_ number of holes. There is also a rabbit that can appear on any hole index _i_. The rabbit can go right (_i + 1_) or one hole left (_i - 0_).
+There is set of holes in a straight line going from _0_ and _n_ number of holes. There is also a rabbit that can appear on any hole index _i_. The rabbit can go right ( _i + 1_ ) or one hole left ( _i - 0_ ).
 
   
 

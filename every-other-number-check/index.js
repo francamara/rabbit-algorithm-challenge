@@ -23,6 +23,7 @@ function rabbitMovement() {
     return { previous: rabbitPreviousPosition, current: rabbitCurrentPosition }
 }
 
+// TODO: make the initial number random too
 const initialHoleCheck = 0
 
 let lastHoleCheck = initialHoleCheck

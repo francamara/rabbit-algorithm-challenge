@@ -47,7 +47,7 @@ My objective with this is to develop a system where it tests the different algor
 
 ## TODO list
 
-- Separate the rabbit's moving algorithm from the initial file.
+- Separate the rabbit's moving algorithm from the initial file so then its easier to use it in another algorithms.
 
 - Add a random initial position to the rabbit
 

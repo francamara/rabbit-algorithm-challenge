@@ -35,7 +35,7 @@ This algorithm checks every other number. Currently starting from zero (The plan
 
 *Not done yet*
 
-The plan with this algorithm is to start checking from the middle ( _n / 2_)
+The plan with this algorithm is to start checking from the middle ( _n / 2_ )
 
   
 
